@@ -1,8 +1,8 @@
 # Gifts Catcher
 
-Feel exhausted from the finals?  Get tired of the daily work? Can't wait to celebrate Christmas after Thanksgiving?  "
+Feel exhausted from the finals?  Get tired of the daily work? Can't wait to celebrate Christmas after Thanksgiving?  
 
-Gifts catcher" is then a good choice!
+"Gifts catcher" is then a good choice!
 
 You can play the game without anything even thinking. The only thing you need to do is "clone" the folder "My_project" and type 
 `./project.py `
